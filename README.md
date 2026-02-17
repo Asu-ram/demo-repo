@@ -1,4 +1,4 @@
 # demo-repo
 Demo Repository
 <br>
-Autor-Aswini(aswini knowledge)
+Autor-Aswini(Aswini knowledge)
